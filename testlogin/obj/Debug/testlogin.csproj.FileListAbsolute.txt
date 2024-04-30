@@ -1,0 +1,26 @@
+C:\Users\User\source\repos\testlogin\testlogin\bin\Debug\testlogin.exe.config
+C:\Users\User\source\repos\testlogin\testlogin\bin\Debug\testlogin.exe
+C:\Users\User\source\repos\testlogin\testlogin\bin\Debug\testlogin.pdb
+C:\Users\User\source\repos\testlogin\testlogin\obj\Debug\testlogin.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\testlogin\testlogin\obj\Debug\testlogin.Properties.Resources.resources
+C:\Users\User\source\repos\testlogin\testlogin\obj\Debug\testlogin.csproj.GenerateResource.cache
+C:\Users\User\source\repos\testlogin\testlogin\obj\Debug\testlogin.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\testlogin\testlogin\obj\Debug\testlogin.exe
+C:\Users\User\source\repos\testlogin\testlogin\obj\Debug\testlogin.pdb
+C:\Users\User\source\repos\testlogin\testlogin\obj\Debug\testlogin.Crudtest.resources
+C:\Users\User\source\repos\testlogin\testlogin\obj\Debug\testlogin.Crud.resources
+C:\Users\User\source\repos\testlogin\testlogin\obj\Debug\testlogin.Form1.resources
+C:\Users\User\source\repos\testlogin\testlogin\obj\Debug\testlogin.testregister.resources
+G:\OOP2\CRUD project\testlogin\testlogin\bin\Debug\testlogin.exe.config
+G:\OOP2\CRUD project\testlogin\testlogin\bin\Debug\testlogin.exe
+G:\OOP2\CRUD project\testlogin\testlogin\bin\Debug\testlogin.pdb
+G:\OOP2\CRUD project\testlogin\testlogin\obj\Debug\testlogin.csproj.AssemblyReference.cache
+G:\OOP2\CRUD project\testlogin\testlogin\obj\Debug\testlogin.Crud.resources
+G:\OOP2\CRUD project\testlogin\testlogin\obj\Debug\testlogin.Crudtest.resources
+G:\OOP2\CRUD project\testlogin\testlogin\obj\Debug\testlogin.Properties.Resources.resources
+G:\OOP2\CRUD project\testlogin\testlogin\obj\Debug\testlogin.testregister.resources
+G:\OOP2\CRUD project\testlogin\testlogin\obj\Debug\testlogin.csproj.GenerateResource.cache
+G:\OOP2\CRUD project\testlogin\testlogin\obj\Debug\testlogin.csproj.CoreCompileInputs.cache
+G:\OOP2\CRUD project\testlogin\testlogin\obj\Debug\testlogin.exe
+G:\OOP2\CRUD project\testlogin\testlogin\obj\Debug\testlogin.pdb
+G:\OOP2\CRUD project\testlogin\testlogin\obj\Debug\testlogin.Login1.resources

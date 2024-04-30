@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testlogin", "testlogin\testlogin.csproj", "{27C02059-5206-4F59-B26F-B72E63AE31D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud", "..\Crud\Crud\Crud.csproj", "{81ED5AE9-7017-4A0E-ADB3-447BFEC58D91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27C02059-5206-4F59-B26F-B72E63AE31D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C02059-5206-4F59-B26F-B72E63AE31D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C02059-5206-4F59-B26F-B72E63AE31D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C02059-5206-4F59-B26F-B72E63AE31D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81ED5AE9-7017-4A0E-ADB3-447BFEC58D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81ED5AE9-7017-4A0E-ADB3-447BFEC58D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81ED5AE9-7017-4A0E-ADB3-447BFEC58D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81ED5AE9-7017-4A0E-ADB3-447BFEC58D91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A6ABAAC-B370-4EED-A210-ADCE464410E3}
+	EndGlobalSection
+EndGlobal
